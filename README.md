@@ -86,6 +86,6 @@ Continue setting up osTicket in the browser, but wait to install. Install HeidiS
 <img src="https://i.imgur.com/NH4rZGY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now you can finish filling out osTicket in the browser and install now. To check if your installation worked browse to http://localhost/osTicket/scp/login.php and login
+Now you can finish filling out osTicket in the browser and install now. To check if your installation worked, browse to http://localhost/osTicket/scp/login.php and login
 </p>
 <br />
